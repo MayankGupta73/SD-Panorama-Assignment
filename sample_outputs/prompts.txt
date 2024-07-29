@@ -1,0 +1,7 @@
+Prompts used for sample outputs:
+
+1. "hdri view, equirectangular panorama 360 panoramic picture of a barn in a field"
+2. "hdri view, equirectangular panorama 360 panoramic picture of a futurustic space station with outer space visible through a window"
+3. "hdri view, equirectangular panorama 360 panoramic picture of a cozy log cabin in the woods"
+4. "hdri view, equirectangular panorama 360 panoramic picture of a modern house"
+5. "hdri view, equirectangular panorama 360 panoramic picture of a house on the beach with the ocean and sands visible through the window"
